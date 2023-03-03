@@ -1,0 +1,23 @@
+.title {
+    display: flex;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border: 1px solid #000;
+    margin-left: 1rem;
+}
+body {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+.subTitle {
+    margin:auto 0;
+}
+.content{
+    padding:2rem;
+}
